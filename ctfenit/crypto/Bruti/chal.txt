@@ -1,0 +1,5 @@
+For the next few challenges, you'll use what you've just learned to solve some more XOR puzzles.
+
+I've hidden some data using XOR with a single byte, but that byte is a secret. Don't forget to decode from hex first.
+
+454e49547b4272217574655f667263655f5f31355f6d795f6634763075723137335f627937657d
